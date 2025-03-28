@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me!</h3>
 
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:[luizzteixeira2@gmail.com](https://mail.google.com/mail/u/0/?pli=1#imp/QgrcJHsBqzNqxNZvgqPNbkkgHNkTlTxkbwL))
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:luizzteixeira2gmail.com)
 
 
 <picture align="center">
